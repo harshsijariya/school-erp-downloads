@@ -8,7 +8,7 @@ Official Student and Teacher Android apps for the School ERP hosted at **https:/
 
 Requires an ARM Android phone running Android 6 or newer. Download the APK, allow installation from your browser when Android prompts, then sign in with the account issued by your school. The Student app accepts student and parent accounts; the Teacher app accepts teacher and class teacher accounts.
 
-The website's DNS activation is pending. Downloads are available now; sign-in requires the school endpoint to be reachable.
+The school website and API are live at https://school.gahoiparinay.com. Sign in using the account issued by your school.
 
 Student features include attendance, timetable, homework, assigned teachers, notices, date sheets and results. Parent accounts also access child-specific fees. Teacher features depend on assigned classes, subjects and permissions.
 
