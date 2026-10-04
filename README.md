@@ -3,8 +3,8 @@
 Official Student and Teacher Android apps for the School ERP hosted at **https://school.gahoiparinay.com**.
 
 - [Download Student APK](https://github.com/harshsijariya/school-erp-downloads/releases/download/v1.0.0/school-student-1.0.0.apk)
-- [Download Teacher APK](https://github.com/harshsijariya/school-erp-downloads/releases/download/v1.0.0/school-teacher-1.0.0.apk)
-- [SHA-256 checksums](https://github.com/harshsijariya/school-erp-downloads/releases/download/v1.0.0/SHA256SUMS)
+- [Download Teacher APK](https://github.com/harshsijariya/school-erp-downloads/releases/download/v1.0.1/school-teacher-1.0.1.apk)
+- [SHA-256 checksums](https://github.com/harshsijariya/school-erp-downloads/releases/download/v1.0.1/SHA256SUMS)
 
 Requires an ARM Android phone running Android 6 or newer. Download the APK, allow installation from your browser when Android prompts, then sign in with the account issued by your school. The Student app accepts student and parent accounts; the Teacher app accepts teacher and class teacher accounts.
 
